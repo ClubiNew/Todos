@@ -1,0 +1,1 @@
+.todos{max-width:75%;margin:auto}.todo{border:2px solid #818181;border-radius:5px}i{color:#5a5a5a;cursor:pointer}input{width:95%;outline:none;border:0;border-bottom:1px solid rgba(90,90,90,0);transition:.25s}input:focus{border-bottom:1px solid #5a5a5a;transition:.25s}#app{font-family:Avenir,Helvetica,Arial,sans-serif}footer{position:absolute;bottom:0;text-align:center;width:100%}
